@@ -1,11 +1,13 @@
-A place for the selected poems and writings of William M. Peaster (@WPeaster)
+A place for the selected writings of William M. Peaster (@WPeaster)
 
--Phantastikon (Poetry volume)
+<b>POETRY<b/>
 
--Where the Splinter Takes (Poetry chapbook)
+-Phantastikon (<i>Poetry volume<i/>)
 
--Six Kisses Times Six Languages (Translations of poem "On Sensuality")
+-Where the Splinter Takes (<i>Poetry chapbook<i/>)
 
--Le Parolas (Verses in Interlingua)
+-Strawberries (<i>Selected haiku<i/>)
 
--Strawberries (Selected haiku)
+-Six Kisses Times Six Languages (<i>Translations of poem "On Sensuality"<i/>)
+
+-Le Parolas (<i>Verses in Interlingua<i/>)
