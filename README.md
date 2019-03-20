@@ -1,4 +1,4 @@
-A place for the selected writings of William M. Peaster [@WPeaster](https://twitter.com/WPeaster)
+A place for the selected writings of William M. Peaster ([@WPeaster](https://twitter.com/WPeaster))
 
 <b>POETRY</b>
 
