@@ -4,7 +4,7 @@ A place for the selected poems and writings of William M. Peaster (@WPeaster)
 
 -Where the Splinter Takes (Poetry chapbook)
 
--Six Kisses Times Six Languages (Translations of WMP poem "On Sensuality")
+-Six Kisses Times Six Languages (Translations of poem "On Sensuality")
 
 -Le Parolas (Verses in Interlingua)
 
