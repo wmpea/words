@@ -1,8 +1,8 @@
 A place for the selected writings of William M. Peaster (@WPeaster)
 
-<b>POETRY<b/>
+<b>POETRY</b>
 
--Phantastikon (<i>Poetry volume<i/>)
+-Phantastikon (<i>Poetry volume</i>)
 
 -Where the Splinter Takes (<i>Poetry chapbook<i/>)
 
