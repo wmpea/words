@@ -14,4 +14,4 @@ A place for the selected writings of William M. Peaster ([@WPeaster](https://twi
 
 <b>MISCELLANEOUS</b>
 
--Academic Essays (<i>Scholastic research</i>)
+-[Academic Essays](https://github.com/wmpea/words/tree/master/Academic%20Essays) (<i>Scholastic research</i>)
