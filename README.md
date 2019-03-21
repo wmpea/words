@@ -4,13 +4,13 @@ A place for the selected writings of William M. Peaster ([@WPeaster](https://twi
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i>)
 
--Where the Splinter Takes (<i>Poetry chapbook</i>)
+-[Where the Splinter Takes](https://github.com/wmpea/words/tree/master/Where%20the%20Splinter%20Takes) (<i>Poetry chapbook</i>)
 
--Strawberries (<i>Selected haiku</i>)
+-[Strawberries](https://github.com/wmpea/words/tree/master/Strawberries) (<i>Selected haiku</i>)
 
--Six Kisses Times Six Languages (<i>Translations of poem "On Sensuality"</i>)
+-[Six Kisses Times Six Languages]((https://github.com/wmpea/words/tree/master/Six%20Kisses%20Times%20Six%20Languages) (<i>Translations of poem "On Sensuality"</i>)
 
--Le Parolas (<i>Poems in Interlingua</i>)
+-[Le Parolas](https://github.com/wmpea/words/tree/master/Le%20Parolas) (<i>Poems in [Interlingua](https://adoneilson.com/int/gi/)</i>)
 
 <b>MISCELLANEOUS</b>
 
