@@ -16,7 +16,7 @@
 
 <b>MISCELLANEOUS</b>
 
--[Academic Essays](https://github.com/wmpea/words/tree/master/Academic%20Essays) (<i>Scholastic research</i>)
+-[Academic Essays](https://github.com/wmpea/words/tree/master/Academic%20Essays) (<i>Literary research</i>)
 
 ***
 
