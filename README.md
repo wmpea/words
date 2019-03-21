@@ -20,9 +20,9 @@
 
 ***
 
-![Thou Unreluctant](https://imgur.com/a/tS0Iiwq)
+![alt text](https://imgur.com/a/tS0Iiwq "Thou Unreluctant")
 
-![Phantastikon](https://imgur.com/a/ezqP1WR)
+![alt text](https://imgur.com/a/ezqP1WR "Phantastikon")
 
 ***
 
