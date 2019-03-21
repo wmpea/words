@@ -18,4 +18,6 @@
 
 -[Academic Essays](https://github.com/wmpea/words/tree/master/Academic%20Essays) (<i>Scholastic research</i>)
 
-Reach William on Twitter ([@WPeaster](https://twitter.com/WPeaster)) or via email (wmpeaster@gmail.com)
+***
+
+William can be reached any time on Twitter ([@WPeaster](https://twitter.com/WPeaster)) or via email (wmpeaster@gmail.com)
