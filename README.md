@@ -2,7 +2,7 @@ A place for the selected writings of William M. Peaster ([@WPeaster](https://twi
 
 <b>POETRY</b>
 
--Phantastikon (<i>Poetry volume</i>)
+-[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i>)
 
 -Where the Splinter Takes (<i>Poetry chapbook</i>)
 
