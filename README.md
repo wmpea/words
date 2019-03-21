@@ -11,3 +11,7 @@ A place for the selected writings of William M. Peaster ([@WPeaster](https://twi
 -Six Kisses Times Six Languages (<i>Translations of poem "On Sensuality"</i>)
 
 -Le Parolas (<i>Poems in Interlingua</i>)
+
+<b>MISCELLANEOUS</b>
+
+-Academic Essays (Scholastic research)
