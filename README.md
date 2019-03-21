@@ -26,4 +26,4 @@
 
 ***
 
-William can be reached any time via Twitter ([@WPeaster](https://twitter.com/WPeaster)) or email (wmpeaster@gmail.com)
+William can be reached any time via email (wmpeaster@gmail.com), Twitter ([@WPeaster](https://twitter.com/WPeaster)), or Telegram ([@wmpeaster](https://web.telegram.org/#/im?p=@wmpeaster))
