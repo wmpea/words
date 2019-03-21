@@ -20,4 +20,10 @@
 
 ***
 
+![Thou Unreluctant](https://imgur.com/a/tS0Iiwq)
+
+![Phantastikon](https://imgur.com/a/ezqP1WR)
+
+***
+
 William can be reached any time on Twitter ([@WPeaster](https://twitter.com/WPeaster)) or via email (wmpeaster@gmail.com)
