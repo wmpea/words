@@ -1,5 +1,3 @@
-Reach William on Twitter ([@WPeaster](https://twitter.com/WPeaster)) or via email (wmpeaster@gmail.com)
-
 <b>POETRY</b>
 
 -[Phantastikon](https://github.com/wmpea/words/tree/master/Phantastikon) (<i>Poetry volume</i>)
@@ -12,6 +10,12 @@ Reach William on Twitter ([@WPeaster](https://twitter.com/WPeaster)) or via emai
 
 -[Le Parolas](https://github.com/wmpea/words/tree/master/Le%20Parolas) (<i>Poems in [Interlingua](https://adoneilson.com/int/gi/)</i>)
 
+<b>FICTION</b>
+
+-Thou Unreluctant (<i>Novel first draft - coming soon</i>)
+
 <b>MISCELLANEOUS</b>
 
 -[Academic Essays](https://github.com/wmpea/words/tree/master/Academic%20Essays) (<i>Scholastic research</i>)
+
+Reach William on Twitter ([@WPeaster](https://twitter.com/WPeaster)) or via email (wmpeaster@gmail.com)
