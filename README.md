@@ -8,7 +8,7 @@ A place for the selected writings of William M. Peaster ([@WPeaster](https://twi
 
 -[Strawberries](https://github.com/wmpea/words/tree/master/Strawberries) (<i>Selected haiku</i>)
 
--[Six Kisses Times Six Languages]((https://github.com/wmpea/words/tree/master/Six%20Kisses%20Times%20Six%20Languages) (<i>Translations of poem "On Sensuality"</i>)
+-[Six Kisses Times Six Languages](https://github.com/wmpea/words/tree/master/Six%20Kisses%20Times%20Six%20Languages) (<i>Translations of poem "On Sensuality"</i>)
 
 -[Le Parolas](https://github.com/wmpea/words/tree/master/Le%20Parolas) (<i>Poems in [Interlingua](https://adoneilson.com/int/gi/)</i>)
 
