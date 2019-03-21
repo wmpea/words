@@ -1,4 +1,4 @@
-A place for the selected writings of William M. Peaster ([@WPeaster](https://twitter.com/WPeaster))
+Reach William on Twitter ([@WPeaster](https://twitter.com/WPeaster)) or via email (wmpeaster@gmail.com)
 
 <b>POETRY</b>
 
