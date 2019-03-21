@@ -12,7 +12,7 @@
 
 <b>FICTION</b>
 
--Thou Unreluctant (<i>Novel first draft - coming soon</i>)
+-Thou Unreluctant (<i>Novel draft - coming soon</i>)
 
 <b>MISCELLANEOUS</b>
 
