@@ -12,7 +12,7 @@
 
 <b>FICTION</b>
 
--Thou Unreluctant (<i>Novel draft - coming soon</i>)
+-[Thou Unreluctant](https://ibb.co/ysjF7jy) (<i>Novel draft - coming soon</i>)
 
 <b>MISCELLANEOUS</b>
 
@@ -20,9 +20,9 @@
 
 ***
 
-![alt text](https://imgur.com/a/tS0Iiwq "Thou Unreluctant")
+<a href="https://ibb.co/ysjF7jy"><img src="https://i.ibb.co/6sC0LCP/William-M-Peaster-Thou-Unreluctant-2-page-001.jpg" alt="William-M-Peaster-Thou-Unreluctant-2-page-001" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>upload pic</a><br />
 
-![alt text](https://imgur.com/a/ezqP1WR "Phantastikon")
+<a href="https://ibb.co/NjLcNC4"><img src="https://i.ibb.co/cFN483m/Phantastikon-William-M-Peaster-2-page-001-1.jpg" alt="Phantastikon-William-M-Peaster-2-page-001-1" border="0"></a>
 
 ***
 
