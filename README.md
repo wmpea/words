@@ -12,7 +12,7 @@
 
 <b>FICTION</b>
 
--[Thou Unreluctant](https://ibb.co/ysjF7jy) (<i>Novel draft - coming soon</i>)
+-[Devils in the Box: a Three-Part Novel](https://ibb.co/ysjF7jy) (<i>Work-in-progress</i>)
 
 <b>MISCELLANEOUS</b>
 
